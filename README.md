@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi There :) 
 
-<!--
-**SebSept/SebSept** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a php developer, mostly working around [Prestashop](https://github.com/prestashop) as a freelance.
 
-Here are some ideas to get you started:
+I'm focused on php (php is great).
+I'm curious about all the way it can be used.
+I sometimes try other code languages then go back to php with new perspectives.
+I like to try new patterns, function, packages, etc.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love to learn, and I'm focusing on achieving good/excellent code quality.
+
+I'm an active member of [Friend's Of Presta Console](https://github.com/friends-of-presta/fop_console/).
+
+You may like [my GitHub's stars](https://github.com/SebSept?tab=stars) then follow me.
+
+If you find something useful in my repositories, feel free to star them or [buy me a koffee](https://ko-fi.com/sebsept).
