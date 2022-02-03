@@ -12,5 +12,3 @@ I love to learn, and I'm focusing on achieving good/excellent code quality.
 I'm an active member of [Friend's Of Presta Console](https://github.com/friends-of-presta/fop_console/).
 
 You may like [my GitHub's stars](https://github.com/SebSept?tab=stars) then follow me.
-
-If you find something useful in my repositories, feel free to star them or [buy me a koffee](https://ko-fi.com/sebsept).
