@@ -1,6 +1,7 @@
 ## Hi There :) 
 
-I'm a php developer, mostly working around [Prestashop](https://github.com/prestashop) as a freelance.
+I'm a php developer, mostly working around [Prestashop](https://github.com/prestashop).
+I'm php lead developper @[410-gone](https://www.410-gone.fr/e-commerce/prestashop.html).
 
 I'm focused on php (php is great).
 I'm curious about all the way it can be used.
